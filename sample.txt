@@ -97,4 +97,4 @@
 192.168.1.130 - - [08/Apr/2025:14:30:06 +0900] "GET /images/footer_bg.png HTTP/1.1" 200 890 "http://example.com/" "Mozilla/5.0 (X11; CrOS armv7l 15183.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.248 Safari/537.36"
 10.0.0.125 - - [08/Apr/2025:14:30:07 +0900] "PUT /data/logs.zip HTTP/1.1" 200 3145728 "http://internal.server/" "PostmanRuntime/7.37.0"
 203.0.113.165 - - [08/Apr/2025:14:30:08 +0900] "GET / HTTP/1.1" 200 1234 "-" "Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko"
-172.16.5.140 - - [08/Apr/2025:14:30:09 +0900] "DELETE /temp/old_data.sql.gz HTTP/1.1" 204 0 "-" "curl/7.91.00"
+172.16.5.140 - - [08/Apr/2025:14:30:09 +0900] "DELETE /temp/old_data.sql.gz HTTP/1.1" 204 0 "-" "curl/7.91.0"
